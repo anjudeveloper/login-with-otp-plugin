@@ -1,12 +1,10 @@
 === Plugin Name: Custom Email OTP Verification ===
-Contributors: [Your Name], [Other Contributors (if any)]
+Contributors: Anju Batta
 Tags: otp, email verification, custom login, user authentication, security
 Requires at least: 5.0
 Tested up to: 6.0
 Stable tag: trunk
 License: GPL2
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
-Donate link: [Your donation link (if applicable)]
 
 == Description ==
 
